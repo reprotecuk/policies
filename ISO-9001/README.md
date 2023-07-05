@@ -1,6 +1,6 @@
-# Opus Works Quality Policy
+# Reprotec UK Ltd Quality Policy
 
-Opus Works Group Ltd (the ‘Organisation’) aims to provide defect free products and services to its customers on time and within budget. 
+Reprotec UK Ltd Group Ltd (the ‘Organisation’) aims to provide defect free products and services to its customers on time and within budget. 
  
 The Organisation operates a Quality Management System that has gained BS EN ISO 9001 : 2015 certification, including aspects specific to the provision of IT services and software development. 
  
@@ -29,30 +29,30 @@ Thank You!
 
 ## A-Z Policies ##
 
-- [AdoptionPolicy](https://github.com/Opusworks/Policies/tree/master/AdoptionPolicy)
-- [AlcoholandDrugPolicy](https://github.com/Opusworks/Policies/tree/master/AlcoholandDrugPolicy)
-- [Anti-CorruptionAndBriberyPolicy](https://github.com/Opusworks/Policies/tree/master/Anti-CorruptionAndBriberyPolicy)
-- [Change Management Policy](https://github.com/Opusworks/Policies/tree/master/ChangeManagement%20Policy)
-- [Code of Conduct](https://github.com/Opusworks/iso9001-quality-policy/tree/master/code-of-conduct)
-- [Conflict Of Interest](https://github.com/Opusworks/iso9001-quality-policy/tree/master/conflict-of-interest)
-- [CompassionateLeave](https://github.com/Opusworks/Policies/tree/master/Compassionate%20Leave%20Policy)
-- [DataProtectionPolicy](https://github.com/Opusworks/Policies/tree/master/DataProtectionPolicy)
-- [DisciplinaryAndCapabilityPolicy](https://github.com/Opusworks/Policies/tree/master/DisciplinaryAndCapabilityPolicy)
-- [ExpensesPolicy](https://github.com/Opusworks/Policies/tree/master/Expenses%20Policy)
-- [FlexibleWorking](https://github.com/Opusworks/Policies/tree/master/FlexibleWorking)
-- [Gifts and Hospitality Policy](https://github.com/Opusworks/Policies/tree/master/Gifts%20and%20Hospitality)
-- [GrievancePolicy](https://github.com/Opusworks/Policies/tree/master/GrievancePolicy)
-- [HealthandSafetyatWorkPolicy](https://github.com/Opusworks/Policies/tree/master/HealthandSafetyatWorkPolicy)
-- [ItAndCommunicationSystems](https://github.com/Opusworks/Policies/tree/master/ItAndCommunicationSystems)
-- [JuryService](https://github.com/Opusworks/Policies/tree/master/JuryServicePolicy)
+- [AdoptionPolicy](https://github.com/reprotecuk/Policies/tree/master/AdoptionPolicy)
+- [AlcoholandDrugPolicy](https://github.com/reprotecuk/Policies/tree/master/AlcoholandDrugPolicy)
+- [Anti-CorruptionAndBriberyPolicy](https://github.com/reprotecuk/Policies/tree/master/Anti-CorruptionAndBriberyPolicy)
+- [Change Management Policy](https://github.com/reprotecuk/Policies/tree/master/ChangeManagement%20Policy)
+- [Code of Conduct](https://github.com/reprotecuk/iso9001-quality-policy/tree/master/code-of-conduct)
+- [Conflict Of Interest](https://github.com/reprotecuk/iso9001-quality-policy/tree/master/conflict-of-interest)
+- [CompassionateLeave](https://github.com/reprotecuk/Policies/tree/master/Compassionate%20Leave%20Policy)
+- [DataProtectionPolicy](https://github.com/reprotecuk/Policies/tree/master/DataProtectionPolicy)
+- [DisciplinaryAndCapabilityPolicy](https://github.com/reprotecuk/Policies/tree/master/DisciplinaryAndCapabilityPolicy)
+- [ExpensesPolicy](https://github.com/reprotecuk/Policies/tree/master/Expenses%20Policy)
+- [FlexibleWorking](https://github.com/reprotecuk/Policies/tree/master/FlexibleWorking)
+- [Gifts and Hospitality Policy](https://github.com/reprotecuk/Policies/tree/master/Gifts%20and%20Hospitality)
+- [GrievancePolicy](https://github.com/reprotecuk/Policies/tree/master/GrievancePolicy)
+- [HealthandSafetyatWorkPolicy](https://github.com/reprotecuk/Policies/tree/master/HealthandSafetyatWorkPolicy)
+- [ItAndCommunicationSystems](https://github.com/reprotecuk/Policies/tree/master/ItAndCommunicationSystems)
+- [JuryService](https://github.com/reprotecuk/Policies/tree/master/JuryServicePolicy)
 - [LoneWorker]
-- [MaternityPolicy](https://github.com/Opusworks/Policies/tree/master/MaternityPolicy)
-- [PaternityPolicy](https://github.com/Opusworks/Policies/tree/master/PaternityPolicy)
+- [MaternityPolicy](https://github.com/reprotecuk/Policies/tree/master/MaternityPolicy)
+- [PaternityPolicy](https://github.com/reprotecuk/Policies/tree/master/PaternityPolicy)
 - [RiskPolicy]
 - [SDLC]
-- [SicknessandAbsencePolicy](https://github.com/Opusworks/Policies/tree/master/SicknessandAbsencePolicy)
+- [SicknessandAbsencePolicy](https://github.com/reprotecuk/Policies/tree/master/SicknessandAbsencePolicy)
 - [Shared Parental Leave Policy]
-- [SocialMedia](https://github.com/Opusworks/Policies/tree/master/SocialMedia)
-- [TimeOffForDependantsPolicy](https://github.com/Opusworks/Policies/tree/master/TimeOffForDependantsPolicy)
-- [TrainingPolicy](https://github.com/Opusworks/Policies/tree/master/TrainingPolicy)
-- [WhistleblowingPolicy](https://github.com/Opusworks/Policies/tree/master/WhistleblowingPolicy)
+- [SocialMedia](https://github.com/reprotecuk/Policies/tree/master/SocialMedia)
+- [TimeOffForDependantsPolicy](https://github.com/reprotecuk/Policies/tree/master/TimeOffForDependantsPolicy)
+- [TrainingPolicy](https://github.com/reprotecuk/Policies/tree/master/TrainingPolicy)
+- [WhistleblowingPolicy](https://github.com/reprotecuk/Policies/tree/master/WhistleblowingPolicy)
