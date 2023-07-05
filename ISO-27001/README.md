@@ -1,4 +1,4 @@
-# Opus Works - Information Security Management System
+# Reprotec UK Ltd - Information Security Management System
 
 ## Why are we implementing ISO27001?
 For one it'll make sure we don't get into any unnecessary trouble and perhaps do something accidental that might implicate a person, our company or a client. 
@@ -24,8 +24,8 @@ This contains all of the policies which make up the Information Management Syste
 <br>A summarised Security Policy document is available [here](security/readme.md)
 
 ## Schedule  
-* Bi-Annual reviews - end of every Apr & Oct
-* Risk Assessment reviews 1mth prior to bi-annual review - end of Mar & Sept
+* Annual reviews - end of every Oct
+* Risk Assessment reviews 1mth prior to annual review - end of Sept
 
 ## The Process
 * The ISMS Committee are responsible for maintaining and updating the policies.
@@ -34,10 +34,10 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* Directors - Tom Walton, Rob Symons, Kate Walton
+* Directors - Richard Buckley, Tom Walton, Elliott Lindsay
 * ISMS Manager (acting) - Tom Walton
 
-Contact Email: isms@opus.works 
+Contact Email: isms@reprotec.uk 
 
 Information Security Roles and Responsibilities [view here](security#information-security-roles-and-responsibilities)
 
